@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatterBox</string>
+    <string name="email">Email</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="comfirm_password">Comfirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
