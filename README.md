@@ -30,9 +30,12 @@
    git clone https://github.com/prashant000000004/chatterBox.git
    cd chatterBox
 2.Build the project:
- ./gradlew build  # On macOS/Linux
+   ```bash
+  ./gradlew build  # On macOS/Linux
   gradlew.bat build  # On Windows
+
 3.Run the application:
+   ```bash
  ./gradlew run  # Or appropriate Gradle task or command  
 
  
