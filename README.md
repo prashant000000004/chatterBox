@@ -2,7 +2,6 @@
 
 A modern, real-time chat messaging application built with Java, designed for seamless communication between users.
 
-![ChatterBox Logo](path/to/your/logo.png)
 
 ## 📋 Table of Contents
 
