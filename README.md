@@ -32,7 +32,7 @@
 2.Build the project:
  ```bash
   gradlew build  # On macOS/Linux
-  gradlew.bat build  # On Windows
+  gradlew.bat build  # On Windows ---
 
 
 
