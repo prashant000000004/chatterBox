@@ -33,9 +33,7 @@
  ```bash
   gradlew build  # On macOS/Linux
   gradlew.bat build  # On Windows
-3.Run the application:
- ```bash
- gradlew run  # Or appropriate Gradle task or command ---
+
 
 
 
