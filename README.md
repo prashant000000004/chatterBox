@@ -33,16 +33,16 @@ A modern, real-time chat messaging application built with Java, designed for sea
 ## 📸 Screenshots
 
 ### Main Chat Interface
-![Main Interface](path/to/screenshots/main-interface.png)
+![Main Interface]([path/to/screenshots/main-interface.png](https://github.com/prashant000000004/chatterBox/blob/master/chatfifth.jpeg))
 
-### Login Screen
-![Login Screen](path/to/screenshots/login-screen.png)
+### Signup Screen
+![Signup Screen]([p/login-screen.png](https://github.com/prashant000000004/chatterBox/blob/799400fa2fc29c084a0476810ef0a27661b7a2c8/chatfirst.jpeg))
 
-### Group Chat
-![Group Chat](path/to/screenshots/group-chat.png)
+### Chat Screen
+![Group Chat](https://github.com/prashant000000004/chatterBox/blob/799400fa2fc29c084a0476810ef0a27661b7a2c8/chatsecond.jpeg)
 
-### User Profile
-![User Profile](path/to/screenshots/user-profile.png)
+### Profile
+![Profile]((https://github.com/prashant000000004/chatterBox/blob/799400fa2fc29c084a0476810ef0a27661b7a2c8/chatthird.jpeg))
 
 *Add your actual screenshots in the `screenshots/` directory and update the paths above*
 
